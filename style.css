@@ -110,7 +110,7 @@ nav a:hover {
 }
 
 .btn:hover {
-  background-color: #8396ca;
+  background-color: #8bb8f3;
   transform: scale(1.02);
 }
 
@@ -168,7 +168,7 @@ section {
 }
 
 .card p {
-  color: #b7b5ff;
+  color: #b5e4ff;
 }
 
 .info-extra {
@@ -228,7 +228,7 @@ section {
   display: block;
   margin-top: 20px;
   font-size: 1rem;
-  color: #8994f7;
+  color: #1d1d27;
 }
 
 footer {
