@@ -110,7 +110,7 @@ nav a:hover {
 }
 
 .btn:hover {
-  background-color: #6d85c9;
+  background-color: #8396ca;
   transform: scale(1.02);
 }
 
@@ -210,7 +210,7 @@ section {
 }
 
 .frase-impacto {
-  background-color: #505192;
+  background-color: #a4a4b6;
   color: #e0e6f7;
   padding: 48px 24px;
   text-align: center;
@@ -228,7 +228,7 @@ section {
   display: block;
   margin-top: 20px;
   font-size: 1rem;
-  color: #6170f4;
+  color: #8994f7;
 }
 
 footer {
@@ -240,7 +240,7 @@ footer {
 }
 
 footer a {
-  color: #6164f4;
+  color: #000000;
   text-decoration: none;
 }
 
