@@ -76,7 +76,7 @@ nav a:hover {
 
 /* banner sem imagem */
 .banner {
-  background: linear-gradient(135deg, #cfe9cd 0%, #b5d9ac 100%);
+  background: linear-gradient(135deg, #ebebeb 0%, #959994 100%);
   padding: 70px 0;
   text-align: center;
   border-bottom: 6px solid var(--terra);
@@ -90,7 +90,7 @@ nav a:hover {
 
 .banner p {
   font-size: 1.3rem;
-  color: #a04fcf;
+  color: #c9a9db;
   max-width: 700px;
   margin: 0 auto 30px;
 }
@@ -128,7 +128,7 @@ section {
 
 .subtitulo-secao {
   text-align: center;
-  color: #6866ce;
+  color: #b2b0fd;
   margin-bottom: 48px;
   font-size: 1.2rem;
 }
@@ -168,7 +168,7 @@ section {
 }
 
 .card p {
-  color: #6e6cd4;
+  color: #b7b5ff;
 }
 
 .info-extra {
@@ -181,7 +181,7 @@ section {
 }
 
 .bg-areia {
-  background: #6052da !important;
+  background: #6052da5e !important;
 }
 
 .bg-verde-claro {
