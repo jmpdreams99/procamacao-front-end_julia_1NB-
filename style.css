@@ -84,13 +84,13 @@ nav a:hover {
 
 .banner h2 {
   font-size: 2.5rem;
-  color: #1f4f2d;
+  color: #58afd8;
   margin-bottom: 20px;
 }
 
 .banner p {
   font-size: 1.3rem;
-  color: #2a4b2a;
+  color: #a04fcf;
   max-width: 700px;
   margin: 0 auto 30px;
 }
@@ -110,7 +110,7 @@ nav a:hover {
 }
 
 .btn:hover {
-  background-color: #6b431d;
+  background-color: #6d85c9;
   transform: scale(1.02);
 }
 
@@ -128,7 +128,7 @@ section {
 
 .subtitulo-secao {
   text-align: center;
-  color: #4a6741;
+  color: #6866ce;
   margin-bottom: 48px;
   font-size: 1.2rem;
 }
@@ -148,7 +148,7 @@ section {
   text-align: center;
   box-shadow: 0 12px 24px var(--sombra);
   transition: all 0.2s;
-  border: 1px solid #ddecd9;
+  border: 1px solid #d7e8f0;
 }
 
 .card:hover {
@@ -168,7 +168,7 @@ section {
 }
 
 .card p {
-  color: #2e4a2c;
+  color: #6e6cd4;
 }
 
 .info-extra {
@@ -181,7 +181,7 @@ section {
 }
 
 .bg-areia {
-  background: #fff0e0 !important;
+  background: #6052da !important;
 }
 
 .bg-verde-claro {
@@ -210,8 +210,8 @@ section {
 }
 
 .frase-impacto {
-  background-color: #1f3b2c;
-  color: #f7f3e0;
+  background-color: #505192;
+  color: #e0e6f7;
   padding: 48px 24px;
   text-align: center;
   border-radius: 56px;
@@ -228,19 +228,19 @@ section {
   display: block;
   margin-top: 20px;
   font-size: 1rem;
-  color: #f4a261;
+  color: #6170f4;
 }
 
 footer {
   background-color: #1e3a2f;
-  color: #d4e6cf;
+  color: #cfdde6;
   padding: 40px 0;
   text-align: center;
   margin-top: 40px;
 }
 
 footer a {
-  color: #f4a261;
+  color: #6164f4;
   text-decoration: none;
 }
 
