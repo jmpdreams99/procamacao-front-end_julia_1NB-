@@ -7,17 +7,17 @@
 body {
   font-family: 'Segoe UI', Roboto, 'Open Sans', system-ui, -apple-system, sans-serif;
   background-color: #f9fef7;
-  color: #1a3a1f;
+  color: #7face0;
   line-height: 1.5;
 }
 
 /* paleta sustentável */
 :root {
-  --verde-agrinho: #2b6e3c;
-  --verde-claro: #e6f5e6;
-  --terra: #8b5a2b;
+  --verde-agrinho: #57abc5;
+  --verde-claro: #706fcc;
+  --terra: #cbd0d8;
   --agua: #2c7da0;
-  --sol: #f4a261;
+  --sol: #6461f4;
   --cinza-leve: #f4f7f2;
   --sombra: rgba(0, 0, 0, 0.05);
 }
